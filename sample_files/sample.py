@@ -4,9 +4,9 @@ print("Hello, world!")
 
 # --- Example functions ---
 
-def add(x, y):
-  """Adds two numbers together."""
-  return x + y
+def add(x, y, z):
+  """Adds three numbers together."""
+  return x + y + z
 
 def greet(name):
   """Greets a person by name."""

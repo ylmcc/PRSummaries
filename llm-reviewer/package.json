@@ -17,7 +17,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "probot": "^13.0.1"
+    "probot": "^13.3.7"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
